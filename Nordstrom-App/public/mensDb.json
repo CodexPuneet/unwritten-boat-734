@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Roadster",
+        "tagline": "Men Grey Melange Solid Round Neck Pure Cotton T-shirt",
+        "price": 189,
+        "mrp": 499,
+        "color": "gray",
+        "category": "mens",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/a2c1b80d-d6cf-4929-9994-854163a2efaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/8c82ca2f-82ef-447c-8340-fc1909f2b50b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/50310251-9496-430b-85d0-9ea4695de574.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/75d4c59f-aaa1-45e9-980b-16c020e7eff7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "HRX by Hrithik Roshan",
+        "tagline": "Men Yellow Printed Cotton Pure Cotton T-shirt",
+        "price": 399,
+        "mrp": 699,
+        "color": "yellow",
+        "category": "mens",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/0e7a86ca-93f3-4d95-a0bc-bc2561f942c0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/334fbadb-a415-42fd-914f-204321d9e541.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/f07e9239-df7f-49db-b6a6-1899c42b63a6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/deb1d55f-0e4a-421f-99bb-b6357dd75f8a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/32e2f128-0762-4a07-80b9-68dff48bf66b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/028cab1b-4d42-4159-9438-95d3ab05e8a4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Urbano Fashion",
+        "tagline": "Men Teal Green Slim Fit Tropical Printed Pure Cotton T-shirt",
+        "price": 439,
+        "mrp": 1099,
+        "color": "red",
+        "category": "mens",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/6c86eb63-8235-4ff6-8a7a-f18f6c84cbc2.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/dd1d292d-2f6b-4cdf-98e5-9f5aa6a0eeeb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/56f5da8e-01a3-415f-9f28-bcfa687b210a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Difference of Opinion",
+        "tagline": "Men Mint Green Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
+        "price": 506,
+        "mrp": 1299,
+        "color": "green",
+        "category": "mens",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/b061eb8b-cf64-4715-be52-daac8d3adc67.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/062bf780-4178-41f7-bdb5-f3891bdad90a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/a668b793-a532-42c8-9f93-c0b157c936b4.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/998cfcd4-521c-405d-b650-ba8d338e6061.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Melange",
+        "tagline": "Men Mint Green Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
+        "price": 177,
+        "mrp": 399,
+        "color": "gray",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/a55f31b9-b029-4471-8e74-cc3b2b71a282.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/c460cb59-1b0d-42dd-960b-8cbf336a1b8a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/f11eeae0-b0ed-4aeb-a759-f0d0f901b78a.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/da99ca38-0448-4ccd-90fb-a7fc326fb759.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "HRX by Hrithik Roshan",
+        "tagline": "Men Teal Blue Printed Athleisure Cotton Pure Cotton T-shirt",
+        "price": 554,
+        "mrp": 699,
+        "color": "blue",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/5a53ee47-2dae-412e-bd0a-3d18f8fa2915.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/35c4ee4d-9479-4d24-afdc-5546635d839f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/ba91c94c-02c8-4326-8b65-0c751e2728e1.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/7e00aa0d-2263-4725-9a98-e7ff7ac32337.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "HERE&NOW",
+        "tagline": "HERENOW Men White Printed Round Neck Pure Cotton T-shirt",
+        "price": 244,
+        "mrp": 699,
+        "color": "white",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/3df96f1a-9ca2-489d-b59b-72976cc387f8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/6ba61ba9-0b55-4d58-af54-3729ee1e9f91.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/6f42040c-789f-4e19-9051-388295b664f7.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/0248d7f1-0d08-40ba-a798-bec6bdeaa410.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Nike",
+        "tagline": "Men Orange Brand Logo MULTIBRAND HBR FS Printed T-shirt",
+        "price": 1036,
+        "mrp": 1595,
+        "color": "orange",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/af5b3656-2110-4c8d-9bfd-04a059b9ca65.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+            "https://n.nordstrommedia.com/id/sr3/b1835355-68df-42ce-8ea3-320c4f0ca81b.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+            "https://n.nordstrommedia.com/id/sr3/49b22f64-8ae7-47dd-9118-6d776cc0c8f7.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/0433bc7d-2cb2-40fd-8c54-9953cf9c3f08.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Nautica",
+        "tagline": "Men Sea Green Solid Polo Collar Slim Fit Pure Cotton T-shirt",
+        "price": 1299,
+        "mrp": 2599,
+        "color": "blue",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/1aa2363e-92cd-4a09-91be-7874d3280040.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+            "https://n.nordstrommedia.com/id/sr3/57d7adf9-af39-473a-a5c4-0aac2beea714.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+            "https://n.nordstrommedia.com/id/sr3/feb496cc-c40c-42df-8986-5b73544b98c1.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/cb2034f7-2385-475c-ad97-c24a7b03dda8.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Campus Sutra",
+        "tagline": "Men Blue Solid Mandarin Collar T-shirt",
+        "price": 1299,
+        "mrp": 2599,
+        "color": "blue",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/0da782d2-d2a9-4703-8b01-2b4531820c30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/912e8599-6397-4494-a54e-3d1226d53938.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/238f8159-25a8-4ca5-9db4-d0ddefc45e5e.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/d5dbb31b-af9a-4549-b815-209b384e343b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Campus Sutra",
+        "tagline": "Men Blue Solid Mandarin Collar T-shirt",
+        "price": 1299,
+        "mrp": 2599,
+        "color": "blue",
+        "images":[
+            "https://n.nordstrommedia.com/id/sr3/0da782d2-d2a9-4703-8b01-2b4531820c30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/912e8599-6397-4494-a54e-3d1226d53938.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/238f8159-25a8-4ca5-9db4-d0ddefc45e5e.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/d5dbb31b-af9a-4549-b815-209b384e343b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Campus Sutra",
+        "tagline": "Men Blue Solid Mandarin Collar T-shirt",
+        "price": 1299,
+        "mrp": 2599,
+        "color": "blue",
+        "images": [
+            "https://n.nordstrommedia.com/id/sr3/9eecd46f-7f38-4d13-a66d-e2fbdc50c43d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/5644162a-a387-4f2a-ba05-8aacd18c49a2.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/42a8a77c-2ab9-421e-b23b-a2500145dc40.jpeg",
+            "https://n.nordstrommedia.com/id/sr3/a4ef5945-0839-4177-b76c-a4f5b826ab16.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/2a5e0780-23d5-4dc4-911f-7eeded5c8f7b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+            "https://n.nordstrommedia.com/id/sr3/e1d28382-0351-4556-b791-d0313d306499.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+        ]
+    }
+]
