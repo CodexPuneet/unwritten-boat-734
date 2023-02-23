@@ -1,6 +1,6 @@
 
 <h1 align="center" id="title">Nord Strom</h1>
-What you Think is What you Get’ isn’t just a saying at ShopQ Mart. With over 2.8 crore products you can get just about everything that you can imagine at ShopQ Mart. From usual products in Electronics Fashion Home & Kitchen to unusual products like cow dung cakes Knife Sharpeners etc. ShopQ Mart tops in everything. So you see what we mean when we say Aflatooni Products!
+Nordstrom, Inc. is an American luxury department store chain. Founded in 1901 by John W. Nordstrom and Carl F. Wallin, it originated as a shoe store and evolved into a full-line retailer with departments for clothing, footwear, handbags, jewelry, accessories, cosmetics, and fragrances.
 
 
 ## 🛠 Built with 
