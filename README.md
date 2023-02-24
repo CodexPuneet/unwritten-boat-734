@@ -22,22 +22,30 @@ Technologies used in the project:
 ## 💻 Screenshots
 
 **Home Page:**
-![Home Page](https://user-images.githubusercontent.com/49484642/214049412-b62130c6-f19b-449f-9b22-43a99cf41774.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/103636380/221244546-4a7c81d9-cb7b-4865-98da-36d6c3b46398.png)
+
 
 **Login Page:**
-![Login Page](https://user-images.githubusercontent.com/49484642/214050878-7b2bace5-6f63-453c-ab5d-dd60919f8b3d.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/103636380/221244834-619ccaaa-7c56-4b0f-9215-0aada91de196.png)
+
+**Register Page:**
+![Screenshot (119)](https://user-images.githubusercontent.com/103636380/221245330-7f889059-6d38-4d76-be2c-a40e69303772.png)
+
 
 **Product Page:**
-![Product Page](https://user-images.githubusercontent.com/49484642/214049453-8e0930ea-957d-4ef7-88a2-de7682f5c3dc.png)
+![Screenshot (125)](https://user-images.githubusercontent.com/103636380/221245862-d70a9ec4-1280-439f-8caf-8fcbe3cc77f5.png)
 
-**Single Product Page:**
-![Single Product Page](https://user-images.githubusercontent.com/49484642/214049494-35508512-06f3-4bfb-bc2a-95ec473b74aa.png)
+
+**NavBar Page:**
+![Screenshot (120)](https://user-images.githubusercontent.com/103636380/221246021-bc1d7d06-5b20-43f6-89ac-5e5fd6961e35.png)
+
 
 **Cart Page:**
 ![Cart Page](https://user-images.githubusercontent.com/49484642/214049471-3c26b539-e904-408c-8e3b-f6bb6dbc5a15.png)
 
-**Admin Page:**
-![Admin Page](https://user-images.githubusercontent.com/49484642/214050842-c2778582-cd95-41ce-97ce-c73ef281ffef.png)
+**Footer Page:**
+![Screenshot (121)](https://user-images.githubusercontent.com/103636380/221245667-677caa76-2878-4ef4-90b4-fe2b47846fe0.png)
+
 
 
 ## ✨ Features 
