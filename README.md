@@ -71,7 +71,7 @@ https://cute-kheer-5d7d09.netlify.app/
 
 Clone the project
 ```bash
-git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
+git clone https://github.com/CodexPuneet/unwritten-boat-734.git
 ```
 ## Client-side usage
 
@@ -85,33 +85,7 @@ $ npm run start        // run it locally
 // deployment for client app
 $ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
 ```
-## Server-side usage
-
-**Environment Variables:-**
-
-To run this project, you will need to add the following environment variables to your .env file
-
-```
-port                    // the port on which the server will run
-mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
-key                     // key which will be JWT secret key 
-```
-
-**Start**
-
-```bash
-$ cd backend            // go to server folder
-$ npm i                 // npm install packages
-$ npm run server        // run it locally
-```
-## ✍ Authors 
-
-- [@Gurjazz18](https://github.com/Gurjazz18)
-- [@sbj1198](https://github.com/sbj1198)
-- [@SCjadhav21](https://www.github.com/SCjadhav21)
-- [@CodexPuneet](https://www.github.com/CodexPuneet)
-- [@Harshank11](https://github.com/Harshank11)
 
 ##
-This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
+This project was built during our construct week at Masai School. It was an individual Project and executed in 6 days.
        
