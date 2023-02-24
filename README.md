@@ -58,10 +58,11 @@ https://cute-kheer-5d7d09.netlify.app/
 #### `Frontend` - Holds the client application
 - #### `public` - This holds all of our static files
 - #### `src`
-    - #### `assets` - This folder holds assets such as images, docs, and fonts
+    
     - #### `components` - This folder holds all of the different components that will make up our pages
     - #### `pages` - These represent a unique page on the website i.e. Home or About. 
-    - #### `redux` - It consists of store, reducer, action and actiontypes and is responsible for global state management of our app.
+    - #### `routes` - It is responsible for handling the path of different page.
+    - #### `context` - It is responsible for global state management of our app.
     - #### `App.js` - This is what renders all of our browser routes and different pages
     - #### `index.js` - This is what renders the react app by rendering App.js.
 - #### `package.json` - Defines npm behaviors and packages for the client
