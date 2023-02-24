@@ -40,8 +40,7 @@ Technologies used in the project:
 ![Screenshot (120)](https://user-images.githubusercontent.com/103636380/221246021-bc1d7d06-5b20-43f6-89ac-5e5fd6961e35.png)
 
 
-**Cart Page:**
-![Cart Page](https://user-images.githubusercontent.com/49484642/214049471-3c26b539-e904-408c-8e3b-f6bb6dbc5a15.png)
+
 
 **Footer Page:**
 ![Screenshot (121)](https://user-images.githubusercontent.com/103636380/221245667-677caa76-2878-4ef4-90b4-fe2b47846fe0.png)
