@@ -50,10 +50,7 @@ Technologies used in the project:
 ## 🚀 Demo
 
 **Front-end deployed URL:**
-
-https://shopqmart.vercel.app/
-<br/>
-https://singular-sundae-186837.netlify.app/
+https://cute-kheer-5d7d09.netlify.app/
 
 
 
